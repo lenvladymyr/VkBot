@@ -2,7 +2,7 @@ VkBot
 =====
 Download
 
-https://github.com/lenvladymyr/VkBot
+git clone https://github.com/lenvladymyr/VkBot
 
 Start script:
 

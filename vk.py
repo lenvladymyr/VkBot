@@ -35,7 +35,7 @@ class VkBot:
 			if idInvite['response']==1:
 				print "Отправлена заявка на добавление пользователя %s в друзья" % idUser
 			elif idInvite['response']==2:
-				print "Заявка на добавление в друзья от пользователя %s одобрена" %idUser
+				print "Вы уже отправляли заявку на добавления пользователя %s" %idUser
 			elif idInvite['response'] == 4:
 				print "Повторная отправка заявки пользователю %s" % idUser
 
